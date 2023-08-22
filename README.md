@@ -25,7 +25,7 @@ Here are some of the projects I've worked on:
 2. [Project 2 - Portfolio Website](https://aashus3110.github.io/myportfolio/)
    My personal portfolio website showcasing my skills, projects, and achievements.
    
-4. [Project 3 - Todo List](https://github.com/aashus3110/todo-list-project)
+4. [Project 3 - Todo List](https://aashus3110.github.io/My-To-Do.github.io/#/)
    A simple and efficient Todo List application developed with Reactjs.
 
 ## 📫 How to Reach Me
