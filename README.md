@@ -19,10 +19,10 @@ I'm currently learning advanced front-end development techniques to take my skil
 
 Here are some of the projects I've worked on:
 
-1. [article summarizers Website](https://articlesummarizers-3110.netlify.app/)
+1. [Project 1 - Article summarizers Website](https://articlesummarizers-3110.netlify.app/)
    A fully responsive articlesummarizers website built using React and integrated with a repide API.
 
-2. [Project 2 - Portfolio Website](https://github.com/aashus3110/portfolio-project)
+2. [Project 2 - Portfolio Website](https://aashus3110.github.io/myportfolio/)
    My personal portfolio website showcasing my skills, projects, and achievements.
 
 3. [Project 3 - Blog Platform](https://github.com/aashus3110/blog-platform)
