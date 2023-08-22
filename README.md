@@ -15,16 +15,9 @@ Here are some of the technologies and tools I enjoy working with:
 
 I'm currently learning advanced front-end development techniques to take my skills to the next level.
 
-## 💼 Work
-
-- Front-end Developer at WebTech Solutions - Since January 2022
-
 ## 📫 How to Reach Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aashutoshsingh/) and [Twitter](https://twitter.com/aashutoshsingh).
-
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aashu3110/)
 ## 🌐 Find Me Online
 
-- [Portfolio Website](https://www.aashutoshsingh.com)
-- [Dev.to](https://dev.to/aashutoshsingh)
-- [Medium](https://medium.com/@aashutoshsingh)
+- [Portfolio Website](https://aashus3110.github.io/myportfolio/)
