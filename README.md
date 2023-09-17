@@ -6,27 +6,33 @@ I'm a Web Developer passionate about creating awesome websites that leave an imp
 
 Here are some of the technologies and tools I enjoy working with:
 
-- Programming Languages: HTML, CSS, JavaScript
-- Frameworks & Libraries: React, Bootstrap
+- Programming Languages: HTML, CSS, JavaScript, Python
+- Front-end Frameworks & Libraries: React, Bootstrap, Tailwind CSS
+- Back-end Frameworks: Django
 - Version Control: Git
-- Others: VS Code, Figma
+- IDE: VS Code
+- Design: Figma
 
 ## 🌱 Currently Learning
 
-I'm currently learning advanced front-end development techniques to take my skills to the next level.
+I'm currently expanding my knowledge in:
+
+- Advanced front-end development techniques, including React.js and Tailwind CSS
+- Building full-stack web applications with Django and React.js
+- Python for back-end development
 
 ## 📁 My Projects
 
 Here are some of the projects I've worked on:
 
-1. [Project 1 - Article summarizers Website](https://articlesummarizers-3110.netlify.app/)
-   A fully responsive articlesummarizers website built using React and integrated with a repide API.
+1. [Project 1 - Article Summarizers Website](https://articlesummarizers-3110.netlify.app/)
+   A fully responsive article summarizers website built using React, Tailwind CSS, and integrated with a rapid API.
 
 2. [Project 2 - Portfolio Website](https://aashus3110.github.io/myportfolio/)
-   My personal portfolio website showcasing my skills, projects, and achievements.
+   My personal portfolio website showcasing my skills, projects, and achievements, built with React.js and Tailwind CSS.
    
-4. [Project 3 - Todo List](https://aashus3110.github.io/My-To-Do.github.io/#/)
-   A simple and efficient Todo List application developed with Reactjs.
+3. [Project 3 - Todo List](https://aashus3110.github.io/My-To-Do.github.io/#/)
+   A simple and efficient Todo List application developed with React.js.
 
 ## 📫 How to Reach Me
 
