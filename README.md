@@ -7,8 +7,8 @@ I'm a Web Developer passionate about creating awesome websites that leave an imp
 Here are some of the technologies and tools I enjoy working with:
 
 - Programming Languages: HTML, CSS, JavaScript, Python
-- Front-end Frameworks & Libraries: React, Bootstrap, Tailwind CSS
-- Back-end Frameworks: Django
+- Front-end Frameworks & Libraries: ReactJs, Bootstrap, Tailwind CSS
+- Back-end Frameworks: Django, Nextjs
 - Version Control: Git
 - IDE: VS Code
 - Design: Figma
