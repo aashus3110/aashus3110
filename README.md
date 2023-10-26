@@ -34,6 +34,9 @@ Here are some of the projects I've worked on:
 3. [Project 3 - Todo List](https://aashus3110.github.io/My-To-Do.github.io/#/)
    A simple and efficient Todo List application developed with React.js.
 
+4. [Project 4 - ItShit-SocialMediaClone](https://itshit-3110.netlify.app/)
+   simple clone app refer as pinterest app.
+
 ## 📫 How to Reach Me
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aashu3110/).
