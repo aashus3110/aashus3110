@@ -35,7 +35,7 @@ Here are some of the projects I've worked on:
    A simple and efficient Todo List application developed with React.js.
 
 4. [Project 4 - ItShit-SocialMediaClone](https://itshit-3110.netlify.app/)
-   simple clone app refer as pinterest app.
+   simple clone app refer as pinterest app and developed with React.js.
 
 ## 📫 How to Reach Me
 
