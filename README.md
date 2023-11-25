@@ -37,6 +37,9 @@ Here are some of the projects I've worked on:
 4. [Project 4 - ItShit-SocialMediaClone](https://itshit-3110.netlify.app/)
    simple clone app refer as pinterest app and developed with React.js.
 
+5. [Project 4 - Sanity Ecommerce ](https://sanity-ecommerce-theta.vercel.app/)
+   simple ecommerce web projrct buld with Next Js , sanity , Reactjs , Strepi
+
 ## 📫 How to Reach Me
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aashu3110/).
